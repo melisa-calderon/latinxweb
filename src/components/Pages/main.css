@@ -1,0 +1,34 @@
+body{
+    background-color:  #F3FBFF;
+    margin:auto;
+}
+
+#root{
+    width:100%;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+}
+ul{
+    font-family: "Assistant";
+    font-weight: 400;
+    font-size: 20px;
+}
+p{
+    font-family: "Assistant";
+    font-weight: 400;
+    font-size: 20px;
+    left:10%;
+    right:10%;
+    
+}
+.spacing-pg{
+    margin:0% 20%;
+}

@@ -1,0 +1,30 @@
+.rect-outline{
+    max-height: 500px;
+
+    padding: 15px 15px 25px 25px;
+    background: #F3FBFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+.rect-header{
+    height: 65px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding: 10px 0px 0px 20px;
+}
+.header-text{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+}
+.body-text{
+    font-family: "Assistant";
+    font-weight: 400;
+    font-size: 20px;
+}
+.spacer{
+    margin: auto;
+    position: relative;
+    width: 80%;
+    padding: 10px;
+}
