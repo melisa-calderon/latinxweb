@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/latinxweb/static/css/main.3641cfcd.css",
-    "main.js": "/latinxweb/static/js/main.13c58448.js",
+    "main.js": "/latinxweb/static/js/main.f510b01b.js",
     "static/media/lockers.jpg": "/latinxweb/static/media/lockers.9ac8e149fb9d7aeaa93b.jpg",
     "index.html": "/latinxweb/index.html",
     "main.3641cfcd.css.map": "/latinxweb/static/css/main.3641cfcd.css.map",
-    "main.13c58448.js.map": "/latinxweb/static/js/main.13c58448.js.map"
+    "main.f510b01b.js.map": "/latinxweb/static/js/main.f510b01b.js.map"
   },
   "entrypoints": [
     "static/css/main.3641cfcd.css",
-    "static/js/main.13c58448.js"
+    "static/js/main.f510b01b.js"
   ]
 }
