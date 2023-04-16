@@ -2,7 +2,7 @@ export const pages = [
     {
       id: 0,
       name: "Home",
-      link: "/home",
+      link: "/",
       color: "#E8EB73",
       description:
         "Here you can find the mission of the website. This section includes information on why completing one’s education is important as well as the positive impacts it can have on a teen’s economic and personal future.  Click here to explore our mission.",      
