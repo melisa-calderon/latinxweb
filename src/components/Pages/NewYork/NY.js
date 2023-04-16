@@ -11,14 +11,14 @@ export const pages = [
       name: "The Door",
       img_scr: "", 
       description:
-        "Here you can find the mission of the website. This section includes information on why completing one’s education is important as well as the positive impacts it can have on a teen’s economic and personal future.  Click here to explore our mission.",      
+        "The Door is a non-profit organization that provides a range of services to at-risk youth, including pregnant and parenting teens. The organization offers academic support, counseling, and parenting classes.",
     },
     {
       id: 2,
       name: "Good Sheperd Services",
       img_scr: "", 
       description:
-        "Here you can find resources for pregnant teens who are attending federally funded schools. In addition, the page provides further information for teens in the state of Texas. Click here to explore your educational rights as a pregnant teen.",
+        "Good Shepherd Services is a non-profit organization that provides education, counseling, and support to at-risk youth, including pregnant and parenting teens. The organization offers a range of services, including academic instruction, parenting classes, and childcare.",
       
     },
     {
