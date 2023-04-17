@@ -4,7 +4,7 @@ export const nyres = [
       name: "LYFE",
       img_scr: "locker.jpg",
       description:
-        "Here you can find the mission of the website. This section includes information on why completing one’s education is important as well as the positive impacts it can have on a teen’s economic and personal future.  Click here to explore our mission.",      
+      "The Living for the Young Family through Education (LYFE) program supports pregnant and parenting students enrolled in a NYC Department of Education school by providing free childcare and student support and advocacy services. Each LYFE site has an early childhood classroom for student parents’ young children and is linked to a social services and health referral network developed by the on-site LYFE Social Worker.",      
     },
     {
       id: 1,
@@ -23,11 +23,22 @@ export const nyres = [
     },
     {
       id: 3,
-      name: "New York",
+      name: "Big Brother, Big Sister, Young Mothers Mentoring Program",
       img_scr: "", 
       description:
-        "Here you can find resources for  teen mothers who are attending federally funded schools. The page provides further information on programs for teens in the state of Texas. Click here to explore your educational rights after a pregnancy.",
+        "Match female mentors with parenting teens or teenage mothers. Program managers are available to refer participants to critical parenting-related services to address immediate financial, nutrition, childcare, housing, health care, and educational needs. Participants’ babies and other family members also receive a range of support services.",
       
     },
-    
+    {
+      id: 4,
+      name: "Big Brother, Big Sister, Young Mothers Mentoring Program",
+      img_scr: "", 
+      description:"A holistic system of education, social service, and community building programs aimed at helping the children and families in a 97 block area of Central Harlem. The Baby College offers a free nine-week parenting program for expectant parents and parents with children up to three years old. The program Includes free breakfast & lunch, a baby-shower for expecting mothers and on-site child care for program participants. Expectant parents/new parents must live in the Harlem Area (Lexington/8th Avenues btw W116-W145th) to attend the program.",
+    },
+    {
+      id: 5,
+      name: "Big Brother, Big Sister, Young Mothers Mentoring Program",
+      img_scr: "", 
+      description:"A holistic system of education, social service, and community building programs aimed at helping the children and families in a 97 block area of Central Harlem. The Baby College offers a free nine-week parenting program for expectant parents and parents with children up to three years old. The program Includes free breakfast & lunch, a baby-shower for expecting mothers and on-site child care for program participants. Expectant parents/new parents must live in the Harlem Area (Lexington/8th Avenues btw W116-W145th) to attend the program.",
+    },
   ];
