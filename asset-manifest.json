@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/latinxweb/static/css/main.3641cfcd.css",
-    "main.js": "/latinxweb/static/js/main.d313d889.js",
-    "static/media/lockers.jpg": "/latinxweb/static/media/lockers.9ac8e149fb9d7aeaa93b.jpg",
-    "index.html": "/latinxweb/index.html",
-    "main.3641cfcd.css.map": "/latinxweb/static/css/main.3641cfcd.css.map",
-    "main.d313d889.js.map": "/latinxweb/static/js/main.d313d889.js.map"
+    "main.css": "/latinxweb/index.html/static/css/main.71b45fd3.css",
+    "main.js": "/latinxweb/index.html/static/js/main.42e6fbd6.js",
+    "static/media/lockers.jpg": "/latinxweb/index.html/static/media/lockers.9ac8e149fb9d7aeaa93b.jpg",
+    "index.html": "/latinxweb/index.html/index.html",
+    "main.71b45fd3.css.map": "/latinxweb/index.html/static/css/main.71b45fd3.css.map",
+    "main.42e6fbd6.js.map": "/latinxweb/index.html/static/js/main.42e6fbd6.js.map"
   },
   "entrypoints": [
-    "static/css/main.3641cfcd.css",
-    "static/js/main.d313d889.js"
+    "static/css/main.71b45fd3.css",
+    "static/js/main.42e6fbd6.js"
   ]
 }
