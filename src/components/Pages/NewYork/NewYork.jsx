@@ -1,15 +1,19 @@
 import React from "react";
 import Navbar from "../../Navbar/Navbar";
-
+import { nyres } from "./NY.js";
 const NewYork = () => {
+
     return (
         <div>
             <Navbar />
             <div className="spacing-pg">
             <h1>New York Resources</h1>
-            
-            <p>
-            </p>
+            {nyres.map((ny) =>
+            <div>
+                <h1>{ny.name}</h1>
+                <p>{ny.description} </p>
+                </div>)
+                }
             </div>
         </div>
             

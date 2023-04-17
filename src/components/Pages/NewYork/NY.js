@@ -1,4 +1,4 @@
-export const pages = [
+export const nyres = [
     {
       id: 0,
       name: "LYFE",
