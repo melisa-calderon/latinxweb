@@ -1,10 +1,10 @@
 export const txres = [
     {
       id: 0,
-      name: "LYFE",
-      img_scr: "locker.jpg",
+      name: "AVANCE",
+      img_scr: "",
       description:
-        "Here you can find the mission of the website. This section includes information on why completing one’s education is important as well as the positive impacts it can have on a teen’s economic and personal future.  Click here to explore our mission.",      
+        "AVANCE is a nonprofit organization that provides parenting education, early childhood development programs, and adult education services to low-income families in Texas. They have programs specifically designed to support teenage Latina mothers in completing their education.",      
     },
     {
       id: 1,
