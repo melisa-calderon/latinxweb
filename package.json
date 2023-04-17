@@ -1,7 +1,7 @@
 {
   "name": "latinxweb",
   "version": "1.0.0",
-  "homepage": "https://melisa-calderon.github.io/latinxweb",
+  "homepage": "https://melisa-calderon.github.io/",
   "description": "Latinx Senior Project",
   "scripts": {
     "start": "react-scripts start",
