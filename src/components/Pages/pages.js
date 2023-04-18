@@ -5,7 +5,7 @@ export const pages = [
       link: "/",
       color: "#E8EB73",
       description:
-        "Here you can find the mission of the website. This section includes information on why completing one’s education is important as well as the positive impacts it can have on a teen’s economic and personal future.  Click here to explore our mission.",      
+        "Home page",      
     },
     {
       id: 1,
@@ -13,7 +13,7 @@ export const pages = [
       link: "/mission",
       color: "#EADE6F",
       description:
-        "Here you can find the mission of the website. This section includes information on why completing one’s education is important as well as the positive impacts it can have on a teen’s economic and personal future.  Click here to explore our mission.",      
+        "This section of the website aims to provide valuable insights into current trends in teenage pregnancy while emphasizing the crucial role of education in improving the economic stability of teenage parents. By clicking here, you can explore our mission and learn more about the significant impact of education on teenagers' lives.",      
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ export const pages = [
       link: "/federal-rights",
       color: "#AEDB99",
       description:
-        "Here you can find resources for pregnant teens who are attending federally funded schools. In addition, the page provides further information for teens in the state of Texas. Click here to explore your educational rights as a pregnant teen.",
+        "Explore our resources for pregnant teens who are attending federally funded schools. We believe that every pregnant teen has the right to education, and we are here to help you understand and exercise those rights. Click here to learn more about your educational rights as a pregnant teen.",
       
     },
     {
@@ -30,7 +30,7 @@ export const pages = [
       link: "/new-york",
       color:"#67B7E4",
       description:
-        "Here you can find resources for  teen mothers who are attending federally funded schools. The page provides further information on programs for teens in the state of Texas. Click here to explore your educational rights after a pregnancy.",
+        "If you are a teen mother living in New York, we have compiled a list of resources to help you succeed in completing your education. Click here to access these resources and learn about the various programs and support available to you.",
       
     },
     {
@@ -39,7 +39,7 @@ export const pages = [
       link: "/texas",
       color:"#E46767",
       description:
-        "Here you can find resources for  teen mothers who are attending federally funded schools. The page provides further information on programs for teens in the state of Texas. Click here to explore your educational rights after a pregnancy.",
+        "If you are a teen mother living in Texas, we have compiled a list of resources to help you succeed in completing your education. Click here to access these resources and learn about the various programs and support available to you. ",
       
     },
   ];
