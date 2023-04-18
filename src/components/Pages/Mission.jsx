@@ -20,7 +20,7 @@ const Mission = () => {
                     Specifically, this website is aimed at providing Latinx communities with the information necessary to make the process of continuing education smoother. This website can be viewed in Spanish and English, with English as the default setting. However, all ethnic groups are welcome to use the website.
                 </p>
                 <h2>Education is an investment</h2>
-                <img src="../../public/img/earning-by-edu.png" width="100%" alt="graph"></img>
+                <img src="/public/img/earning-by-edu.png" width="100%" alt="graph"></img>
                 <p>
                     Having a high school degree improves the weekly take home salary, and having a higher level degree further improve weekly earnings as seen above. While working towards a degree might seem daunting, the long-term benefits are substantial. For teenage parent, this can be challenging since they have to take care of a child, which is a job by itself. Moreover, having children comes with extra expenses like clothes, formula, child care and food. As a result, many parents drop out and decide to join the workforce to provide for their new family. Additionally, it can be extremely challenging to juggle taking care of a child, having a job, and going to school. However, there are programs that assist teens continue their education through affordable child care and extra resources.
                 </p>
