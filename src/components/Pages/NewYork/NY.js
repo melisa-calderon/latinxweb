@@ -27,7 +27,7 @@ export const nyres = [
     {
       id: 3,
       name: "Big Brother, Big Sister, Young Mothers Mentoring Program",
-      external_link: "",
+      external_link: "https://www.bbbs.org/school-based/",
       img_scr: "", 
       description:
         "Match female mentors with parenting teens or teenage mothers. Program managers are available to refer participants to critical parenting-related services to address immediate financial, nutrition, childcare, housing, health care, and educational needs. Participants’ babies and other family members also receive a range of support services.",
