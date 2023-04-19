@@ -12,6 +12,7 @@ const Texas = () => {
                 <div>
                     <h1>{tx.name}</h1>
                     <p>{tx.description} </p>
+                    <p> Link: <a href={ny.external_link}> {ny.external_link} </a></p>
                 </div>)}
             </div>
         </div>
