@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/latinxweb/static/css/main.3641cfcd.css",
-    "main.js": "/latinxweb/static/js/main.933a60c1.js",
+    "main.js": "/latinxweb/static/js/main.dc0a46fd.js",
     "static/media/lockers.jpg": "/latinxweb/static/media/lockers.9ac8e149fb9d7aeaa93b.jpg",
+    "static/media/earning-by-edu.png": "/latinxweb/static/media/earning-by-edu.8be8ba3be90ff9cc6ca8.png",
     "index.html": "/latinxweb/index.html",
     "main.3641cfcd.css.map": "/latinxweb/static/css/main.3641cfcd.css.map",
-    "main.933a60c1.js.map": "/latinxweb/static/js/main.933a60c1.js.map"
+    "main.dc0a46fd.js.map": "/latinxweb/static/js/main.dc0a46fd.js.map"
   },
   "entrypoints": [
     "static/css/main.3641cfcd.css",
-    "static/js/main.933a60c1.js"
+    "static/js/main.dc0a46fd.js"
   ]
 }
