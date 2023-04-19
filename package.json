@@ -1,14 +1,14 @@
 {
   "name": "latinxweb",
   "version": "1.0.0",
-  "homepage": "http://melisa-calderon.github.io/latinxweb",
+  "homepage": "https://melisa-calderon.github.io/latinxweb",
   "description": "Latinx Senior Project",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "author": "Melisa Calderon",
