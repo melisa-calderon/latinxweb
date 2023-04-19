@@ -9,10 +9,10 @@ export const txres = [
     
     {
       id: 1,
-      name: "New York",
+      name: "",
       img_scr: "", 
       description:
-        "Here you can find resources for  teen mothers who are attending federally funded schools. The page provides further information on programs for teens in the state of Texas. Click here to explore your educational rights after a pregnancy.",
+        "",
       
     },
     
